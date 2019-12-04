@@ -1,0 +1,17 @@
+{
+	"dir" : "ltr",
+	"lang" : "Spanish; Castilian",
+	"name" : "localstorage",
+	"scope" : "/calificaciones/localstorage/localstorage.php",
+	"display" : "standalone",
+	"start_url" : "https://sistemas.cruzperez.com/calificaciones/localstorage/localstorage.php",
+	"short_name" : "localstorage",
+	"theme_color" : "transparent",
+	"description" : "trabajo de localstorage",
+	"orientation" : "any",
+	"background_color" : "transparent",
+	"prefer_related_applications" : false,
+	"icons" : [],
+	"screenshots" : [],
+	"generated" : "true"
+}
