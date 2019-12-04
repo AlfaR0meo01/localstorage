@@ -1,8 +1,8 @@
 <?php
-$servername = "localhost";
-$username = "ceneval";
-$password = "c3n3v4l";
-$db="ceneval";
+$servername = "";
+$username = "";
+$password = "";
+$db="";
 
 $mysqli = new mysqli($servername, $username, $password, $db);  
 if (mysqli_connect_errno()) {    
